@@ -2,7 +2,7 @@
 Contributors: calculatorio
 Tags: 
 Requires at least: 5.0
-Tested up to: 6.2.2
+Tested up to: 6.3.0
 Stable tag: 1.0.0
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
@@ -12,6 +12,14 @@ This free body fat calculator uses the US Navy and BMI methods to approximate bo
 == Description ==
 
 This free body fat calculator uses the US Navy and BMI methods to approximate body fat percentage. It provides weight loss information to help you achieve your ideal body fat.
+
+Libraries in use:
+1. https://mathjs.org/
+2. https://katex.org/
+3. https://github.com/aFarkas/lazysizes
+4. https://github.com/RobinHerbots/Inputmask
+5. https://air-datepicker.com/
+6. https://www.chartjs.org/
 
 == Installation ==
 
