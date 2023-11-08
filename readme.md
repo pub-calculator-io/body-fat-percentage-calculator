@@ -12,8 +12,7 @@ This free body fat calculator uses the US Navy and BMI methods to approximate bo
 3. Activate the [Body Fat Percentage Calculator](https://www.calculator.io/body-fat-percentage-calculator/ "Body Fat Percentage Calculator Homepage") plugin through the "Plugins" menu in WordPress.
 
 ## Usage
-* Add the shortcode `[ci_body_fat_percentage_calculator]` to your page or post and configure default mortgage parameters.
-* If you are using widgets, just add the Body Fat Percentage Calculator to the sidebar through the `Appearance -> Widgets -> Body Fat Percentage Calculator` menu in WordPress.
+* Add the shortcode `[ci_body_fat_percentage_calculator]` to your page, post or sidebar.
 * Add the following code: `<?php display_ci_body_fat_percentage_calculator(); ?>` to your template where you would like the Body Fat Percentage Calculator to appear.
 
 ## Libraries in Use
