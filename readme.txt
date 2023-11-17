@@ -1,6 +1,6 @@
 === Body Fat Percentage Calculator by Calculator.iO ===
 Contributors: calculatorio
-Tags: 
+Tags: body fat calculator, body fat percentage estimator, calculate body fat online, body composition tool, fat measurement calculator, healthy body fat range, body fat percentage for BMI, body fat analysis, determine body fat, body fat tracking
 Requires at least: 5.0
 Tested up to: 6.4.0
 Stable tag: 1.0.0
