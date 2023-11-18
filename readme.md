@@ -1,4 +1,4 @@
-# Body Fat Percentage Calculator WordPress Widget by [Calculator.iO](https://www.calculator.io/ "Calculator.iO Homepage")
+# Body Fat Percentage Calculator Widget for WordPress
 
 This free body fat calculator uses the US Navy and BMI methods to approximate body fat percentage. It provides weight loss information to help you achieve your ideal body fat.
 
