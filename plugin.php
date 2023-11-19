@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: Body Fat Percentage Calculator by www.calculator.io
+Plugin Name: CI Body fat percentage calculator
 Plugin URI: https://www.calculator.io/body-fat-percentage-calculator/
 Description: This free body fat calculator uses the US Navy and BMI methods to approximate body fat percentage. It provides weight loss information to help you achieve your ideal body fat.
 Version: 1.0.0
