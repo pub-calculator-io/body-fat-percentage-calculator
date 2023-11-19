@@ -7,7 +7,7 @@ This free body fat calculator uses the US Navy and BMI methods to approximate bo
 
 ## Installation
 
-1. [Download](https://github.com/pub-calculator-io/age-calculator/archive/refs/heads/master.zip) the ZIP file of this repository.
+1. [Download](https://github.com/pub-calculator-io/body-fat-percentage-calculator/archive/refs/heads/master.zip) the ZIP file of this repository.
 2. Upload the /body-fat-percentage-calculator-master/ folder to the /wp-content/plugins/ directory.
 3. Activate the [Body Fat Percentage Calculator](https://www.calculator.io/body-fat-percentage-calculator/ "Body Fat Percentage Calculator Homepage") plugin through the "Plugins" menu in WordPress.
 
