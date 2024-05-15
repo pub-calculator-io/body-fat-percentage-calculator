@@ -24,7 +24,6 @@ Add the following code to your template where you would like the Body Fat Percen
 == Screenshots ==
 
 1. The Body Fat Percentage Calculator Input Form.
-2. The Body Fat Percentage Calculator Calculation Results.
 
 == Installation ==
 

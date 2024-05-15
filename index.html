@@ -53,7 +53,7 @@
                 		</label>
                 	</div>
                 	<div class="input-wrapper row">
-                		<label class="input col   ">
+                		<label class="input col bmi-calculator,calorie-calculator,bmr-calculator,ideal-weight-calculator,tdee-calculator,macro-calculator,body-type-calculator,calories-burned-calculator,protein-calculator,army-body-fat-calculator,pregnancy-weight-gain-calculator  ">
                 			<p class="input__title">Age</p>
                 			<div class="input-field row">
                 				<input type="text" class="input-field__input" placeholder=""  id="age" value="30"  />
@@ -152,7 +152,7 @@
                 <div class="calculator-content calculator-content--gray calculator-content--footer calculator-content--small row  " >
                 
                 
-                		<button class="system-switcher" onclick="toggleSystem(this)">
+                		<button class="system-switcher" onclick="toggleSystem(this)" aria-label="Switch System">
                 			<div class="system-switcher__circle"></div>
                 			<svg width="12" height="12" viewBox="0 0 12 12" fill="none" xmlns="http://www.w3.org/2000/svg">
                 	<path d="M10.5 9.5H10C9.44772 9.5 9 9.05228 9 8.5V2.5M4.5 2.5H3.5C2.94772 2.5 2.5 2.94772 2.5 3.5L2.5 9.5M7.5 4.5L10.5 4.5M1.5 5.5L4.5 5.5" stroke="white" stroke-width="2" stroke-linecap="round"></path>
@@ -173,13 +173,15 @@
                 		</script>
                 
                 
-                	<button class="button button--primary ml-auto" onclick="calculate(this)">Calculate</button>
+                	<button class="button button--primary ml-auto" onclick="calculate(this); animateElements();" data-action="calculate" id="action-button">Calculate</button>
                 </div>
                 
                 
                 
                 
-                	<script type="text/javascript" src="./assets/js/calculator.js"></script>
+                
+                
+                	<script type="text/javascript" src="./assets/js/calculator.js" defer></script>
             </div>
         </div>
     </div>
@@ -194,8 +196,7 @@
         </svg>
         		<p class="calculator-error__title">There was an error with your calculation.</p>
         	</div>
-        	<div class="col" id="error-list">
-        	</div>
+        	<div class="col" id="error-list"></div>
         </div>        <span id="calculator_result"><style>
 	.table-progress-list--fat {
 		max-width: 100%;
@@ -256,10 +257,10 @@
 			<thead class="result-table__head">
 				<tr class="result-table__row">
 					<td class="result-table__cell result-table__cell--header result-table__cell--semibold">Body Fat Percentage</td>
-					<td class="result-table__cell result-table__cell--semibold" id="bf">19.7%</td>
+					<td class="result-table__cell result-table__cell--semibold animate" id="bf">19.7%</td>
 				</tr>
 			</thead>
-			<tbody class="result-table__body">
+			<tbody class="result-table__body animate">
 				<tr class="result-table__row">
 					<td class="result-table__cell result-table__cell--header">Body Fat Category</td>
 					<td class="result-table__cell" id="bf-category">Average</td>

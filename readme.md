@@ -3,7 +3,6 @@
 This free body fat calculator uses the US Navy and BMI methods to approximate body fat percentage. It provides weight loss information to help you achieve your ideal body fat.
 
 ![Body Fat Percentage Calculator Input Form](/assets/images/screenshot-1.png "Body Fat Percentage Calculator Input Form")
-![Body Fat Percentage Calculator Calculation Results](/assets/images/screenshot-2.png "Body Fat Percentage Calculator Calculation Results")
 
 ## Installation
 
