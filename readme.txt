@@ -1,13 +1,13 @@
-=== CI Body fat percentage calculator ===
+=== Body Fat Percentage Calculator by Calculator.iO ===
 Contributors: calculatorio
-Tags: body fat calculator, body fat percentage estimator, calculate body fat online, body composition tool, fat measurement calculator, healthy body fat range, body fat percentage for BMI, body fat analysis, determine body fat, body fat tracking
+Tags: body fat percentage calculator, body fat calculator, calculate body fat, US Navy body fat calculator, body composition calculator
 Requires at least: 5.0
-Tested up to: 6.4.0
+Tested up to: 6.5.5
 Stable tag: 1.0.0
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
-This free body fat calculator uses the US Navy and BMI methods to approximate body fat percentage. It provides weight loss information to help you achieve your ideal body fat.
+Calculate your body fat percentage instantly with our free calculator. Using US Navy and BMI methods, get accurate results and actionable weight loss insights.
 
 [https://www.calculator.io/body-fat-percentage-calculator/](https://www.calculator.io/body-fat-percentage-calculator/)
 
@@ -15,19 +15,20 @@ This free body fat calculator uses the US Navy and BMI methods to approximate bo
 
 Add the Body Fat Percentage Calculator shortcode to your page, post or sidebar:
 
-`[ci_body_fat_percentage_calculator]`
+`[calcio_body_fat_percentage_calculator]`
 
 Add the following code to your template where you would like the Body Fat Percentage Calculator to appear:
 
-`<?php display_ci_body_fat_percentage_calculator(); ?>`
+`<?php display_calcio_body_fat_percentage_calculator(); ?>`
 
 == Screenshots ==
 
 1. The Body Fat Percentage Calculator Input Form.
+2. The Body Fat Percentage Calculator Calculation Results.
 
 == Installation ==
 
-1. Upload the Body Fat Percentage Calculator /ci_body_fat_percentage_calculator/ folder to the /wp-content/plugins/ directory.
+1. Upload the Body Fat Percentage Calculator /calcio_body_fat_percentage_calculator/ folder to the /wp-content/plugins/ directory.
 2. Activate the Body Fat Percentage Calculator plugin through the "Plugins" menu in WordPress.
 
 == Changelog ==
